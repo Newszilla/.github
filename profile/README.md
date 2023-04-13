@@ -27,7 +27,7 @@ Guidelines:
 2. No bullshit headlines, content is deep and diggable.
 3. All mentioned entities must be thoroughly linked (in terms of semantics, the elaborated description can be relayed to external sources like Yahoo Finance and Wikipedia)
 4. Most stuff from local news (e.g. CP24) and focused community news (e.g. PC Gamer) are TOTALLY IRRELEVANT because they are very sensational. Instead, we should focus on timeless news that are of research-grade value. Unless we can provide specific research grade information, including broader range statistics (e.g. crime rates, or recent trends), links to academic study resources, we shouldn't collect such items. Infographics in general are useless to end user for our system, but underlying raw data tables are useful if available.
-  * In fact, one way to generalize such requirement is to require presence of one or more raw tabular data.
+    * In fact, one way to generalize such requirement is to require presence of one or more raw tabular data.
 
 Philosophy:
 
